@@ -1,0 +1,56 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background-color: black;
+}
+
+button{
+	background-color: #5D9899;
+	color: white;
+	margin: 5px;
+}
+
+p{
+	color: white;
+	font-family: georgia;
+	text-align: center;
+}
+
+img{
+	margin: 5px;
+	float: left;
+}
+
+.header{
+	height: 100px;
+	background-color: grey;
+	padding: 20px;
+}
+
+.putGifsHere{
+	width: 800px;
+	height: 500px;
+	background-color: #F2F2F2;
+	margin: 20px 10px;
+	float: left;
+}
+
+.gifSearch{
+	float: left;
+	margin: 20px 10px;
+}
+
+.createButton{
+	margin-top: 10px;
+}
+
+.searchButton:hover{
+	cursor: pointer;
+	background-color: #A2D9CE	;
+}
+
+button:hover {
+	cursor: pointer;
+}
